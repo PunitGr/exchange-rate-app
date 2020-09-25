@@ -10,7 +10,7 @@ const Select = styled.select`
   background-color: transparent;
 
   @media (max-width: 768px) {
-    font-size: 14px;
+    font-size: 16px;
   }
 `
 

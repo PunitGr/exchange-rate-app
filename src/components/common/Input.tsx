@@ -16,7 +16,7 @@ const Input = styled.input`
   align-self: flex-end;
 
   @media (max-width: 768px) {
-    font-size: 14px;
+    font-size: 16px;
     width: 70%;
   }
 

@@ -40,10 +40,6 @@ const Text = styled.p`
   font-size: 13px;
   color: ${(props: TextProps) => (props.hasError ? color.error : color.dark)};
   text-align: ${(props: TextProps) => props.align || 'center'};
-
-  @media (max-width: 768px) {
-    font-size: 10px;
-  }
 `
 
 const Pocket = (props: PocketProps): JSX.Element => {

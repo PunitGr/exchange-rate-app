@@ -30,7 +30,7 @@ const RoundButton = styled.a`
   text-decoration: none;
   cursor: pointer;
   color: ${color.white};
-  font-size: 12px;
+  font-size: 14px;
 `
 
 const Section = styled.div`
