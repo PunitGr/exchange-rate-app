@@ -31,8 +31,6 @@ yarn start
 
 <img src="https://github.com/punitgr/exchange-rate-app/blob/master/gif/new.gif" style="width:600px;height:600px;" />
 
-![][ =600x600 ]
-
 ### Code structure
 
 - `components/Exchange` - For the exchange screen
