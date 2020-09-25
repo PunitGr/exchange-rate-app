@@ -6,7 +6,7 @@
   "scripts": {
     "lint": "eslint '*/**/*.{js,ts,tsx}' --quiet --fix",
     "start": "webpack-dev-server",
-    "build": "webpack --config webpack.build.config.js",
+    "build": "webpack -p --mode=production",
     "test": "jest",
     "test:watch": "jest --watch"
   },
@@ -63,7 +63,6 @@
     "typescript": "^4.0.2",
     "webpack": "^4.44.1",
     "webpack-cli": "^3.3.12",
-    "webpack-dev-server": "^3.11.0",
-    "webpack-node-externals": "^2.5.2"
+    "webpack-dev-server": "^3.11.0"
   }
 }
