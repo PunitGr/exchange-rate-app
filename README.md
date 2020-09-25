@@ -4,7 +4,7 @@
 
 https://optimistic-blackwell-902e64.netlify.app/
 
-This app is build using `react, typescript, webpack/babel, redux, redux-saga, styled-components, eslint, jest, React Testing Library, chart.js, axios`
+This app is build using `react, typescript, webpack/babel, redux, redux-saga, styled-components, chart.js, axios, eslint, prettier, jest, React Testing Library`
 
 **_API used_**: `https://api.exchangeratesapi.io`
 
@@ -18,9 +18,18 @@ This app is build using `react, typescript, webpack/babel, redux, redux-saga, st
 * yarn test:watch // To run latest tests after commit
 ```
 
+### Local setup
+
+```
+yarn
+yarn start
+```
+
+**_App will be active and running on http://localhost:8080/_**
+
 ### GIF
 
-![alt text][https://github.com/punitgr/exchange-rate-app/tree/master/gif/new.gif]
+![][https://github.com/punitgr/exchange-rate-app/blob/master/gif/new.gif =600x600 ]
 
 ### Code structure
 
