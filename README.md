@@ -29,7 +29,9 @@ yarn start
 
 ### GIF
 
-![][https://github.com/punitgr/exchange-rate-app/blob/master/gif/new.gif =600x600 ]
+<img src="https://github.com/punitgr/exchange-rate-app/blob/master/gif/new.gif" style="width:600px;height:600px;" />
+
+![][ =600x600 ]
 
 ### Code structure
 
